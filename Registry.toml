@@ -5,4 +5,5 @@ description = "jose.pereiro.lab@gmail.com private registry"
 
 [packages]
 1070a898-5650-4dbc-bdc4-2f105286d314 = { name = "ObaASTs", path = "O/ObaASTs" }
+25f8d37a-575f-481b-82a1-d70056d35966 = { name = "ObaServers", path = "O/ObaServers" }
 ed65db08-98aa-43d3-9a5a-577874b2c92a = { name = "ObaBase", path = "O/ObaBase" }
