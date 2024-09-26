@@ -4,4 +4,5 @@ repo = "https://github.com/josePereiro/Pereiro_Registry.jl"
 description = "jose.pereiro.lab@gmail.com private registry"
 
 [packages]
+1070a898-5650-4dbc-bdc4-2f105286d314 = { name = "ObaASTs", path = "O/ObaASTs" }
 ed65db08-98aa-43d3-9a5a-577874b2c92a = { name = "ObaBase", path = "O/ObaBase" }
