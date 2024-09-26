@@ -1,0 +1,6 @@
+name = "Pereiro_Registry"
+uuid = "2a59f693-5ef7-46a1-8083-8ff7d3ccdc62"
+repo = "https://github.com/josePereiro/Pereiro_Registry.jl"
+description = "jose.pereiro.lab@gmail.com private registry"
+
+[packages]
