@@ -1,0 +1,6 @@
+[0]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
+["0.1.2-0"]
+BibTeX = "7b0aa2c9-049f-5cec-894a-2b6b781bb25e"
